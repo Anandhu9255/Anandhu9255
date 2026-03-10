@@ -3,9 +3,13 @@ Hi there, I'm Anandhu! 👋
 Trainee Software Engineer | MERN Stack Enthusiast I don't just write code; I enjoy breaking it down to understand the "why" behind every logic.
 
 🔭 Focus: Mastering the MERN Stack and building clean RESTful APIs.
+
 🌱 Learning: Deep diving into Node.js architecture and Advanced OOP concepts.
+
 ⚡ Fun Fact: I’ve spent more time in Postman testing routes than I have on social media this week.
+
 💬 Ask me about: JavaScript logic, React components, or why my console is full of console.log('here').
+
 📫 Reach me: contactmeanandhuanilkumar@gmail.com
 
 🛠️ Technical Toolbox
