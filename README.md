@@ -42,7 +42,7 @@ JavaScript logic, React components, or why my console is full of `console.log('h
 
 ### 📫 Reach me
 * **Email:** [contactmeanandhuanilkumar@gmail.com](mailto:contactmeanandhuanilkumar@gmail.com)
-* **LinkedIn:** [Your LinkedIn Link Here]
+* **LinkedIn:** [https://www.linkedin.com/in/anandhuanilkumar-web-developer/]
 
 ---
 *“Logic is the beginning of wisdom, not the end.”*
