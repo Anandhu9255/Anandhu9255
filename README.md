@@ -5,13 +5,15 @@
 ---
 
 ### 💼 Work With Me (Freelance)
-I am currently **open to freelance opportunities** and contract work. With an internship in MERN development and a portfolio of **23+ repositories**, I specialize in:
+I am currently **open to freelance opportunities** and contract work. With professional internship experience in MERN development and a portfolio of **23+ repositories**, I specialize in:
+
 * **Full-Stack Web Apps:** Building responsive React frontends with robust Node/Express backends.
 * **API Development:** Creating clean, documented, and secure RESTful APIs.
 * **Database Management:** Efficient schema design using MongoDB.
 * **Bug Fixing & Logic:** Deep-diving into existing codebases to optimize and debug.
 
-> 📩 **Let's build something:** [contactmeanandhuanilkumar@gmail.com](mailto:contactmeanandhuanilkumar@gmail.com)
+> 🤝 **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/anandhuanilkumar-web-developer/)  
+> 📩 **Direct Inquiry:** [contactmeanandhuanilkumar@gmail.com](mailto:contactmeanandhuanilkumar@gmail.com)
 
 ---
 
@@ -41,8 +43,8 @@ I’ve spent more time in Postman testing routes than I have on social media thi
 JavaScript logic, React components, or why my console is full of `console.log('here')`.
 
 ### 📫 Reach me
+* **LinkedIn:** [anandhuanilkumar-web-developer](https://www.linkedin.com/in/anandhuanilkumar-web-developer/)
 * **Email:** [contactmeanandhuanilkumar@gmail.com](mailto:contactmeanandhuanilkumar@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/anandhuanilkumar-web-developer/]
 
 ---
 *“Logic is the beginning of wisdom, not the end.”*
